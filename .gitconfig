@@ -1,2 +1,5 @@
 [core]
 	excludesfile = /home/luke-biel/.gitignore
+[user]
+	name = Łukasz Biel
+	email = lukasz.p.biel@gmail.com

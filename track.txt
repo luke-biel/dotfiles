@@ -27,3 +27,4 @@
 .config/ranger/scope.sh
 .config/ranger/rifle.conf
 .config/ranger/rc.conf
+.config/nvim/init.vim
