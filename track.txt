@@ -1,5 +1,4 @@
 .zshrc
-.xinitrc
 .gitignore
 .gitconfig
 .config/dunst/dunstrc

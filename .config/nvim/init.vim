@@ -19,7 +19,7 @@ set cursorline              " highlight current cursorline
 set ttyfast                 " Speed up scrolling in Vim
 set backupdir=~/.cache/vim  " Directory to store backup files.
 set rnu
-set guifont=JetBrains\ Mono:h10
+set guifont=JetBrains\ Mono:h9
 
 call plug#begin(stdpath('data') . '/plugged')
  Plug 'dracula/vim', {'as': 'dracula'}

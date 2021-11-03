@@ -1,5 +1,8 @@
 [core]
 	excludesfile = /home/luke-biel/.gitignore
+	editor = nvim
 [user]
 	name = Łukasz Biel
 	email = lukasz.p.biel@gmail.com
+[init]
+	defaultBranch = master
