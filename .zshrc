@@ -70,7 +70,7 @@ ZSH_THEME="rkj-repos"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git fzf cargo rustup docker npm)
+plugins=(git fzf rust docker npm)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -101,4 +101,11 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
 export EDITOR=vim
+
+export GOROOT=$HOME/.go
+
 source /home/luke-biel/.cdsrc
+
+export PATH=$PATH:/home/luke-biel/.local/bin
+
+source '/home/luke-biel/.local/share/azure-cli/az.completion'
