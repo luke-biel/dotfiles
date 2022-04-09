@@ -249,6 +249,10 @@ for_window [class="Pamac-manager"] floating enable
 
 for_window [title="race-the-moon"] floating enable
 
+focus_on_window_activation none
+
+no_focus [class="Unity"]
+
 ######################################
 # color settings for bar and windows #
 ######################################

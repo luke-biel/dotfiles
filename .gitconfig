@@ -6,3 +6,5 @@
 	email = lukasz.p.biel@gmail.com
 [init]
 	defaultBranch = master
+[diff]
+	external = difft

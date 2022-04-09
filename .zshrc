@@ -102,8 +102,6 @@ source $ZSH/oh-my-zsh.sh
 #
 export EDITOR=vim
 
-export GOROOT=$HOME/.go
-
 source /home/luke-biel/.cdsrc
 
 export PATH=$PATH:/home/luke-biel/.local/bin
